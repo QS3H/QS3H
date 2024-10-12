@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">Hi my name is Shawky Ahmed, I am a passionate full-stack developer 👨‍💻 </div>  
+### <div align="center">Hi my name is Shawky Ahmed, I am a passionate aspiring to be a full-stack developer 👨‍💻 </div>  
   
 
 - ⚡ Fun fact: I Love learning new things  
