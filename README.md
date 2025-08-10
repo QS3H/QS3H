@@ -6,8 +6,8 @@
 ### <div align="center">Hi my name is Shawky Ahmed, I am a passionate programmer aspiring to be a full-stack developer 👨‍💻 </div>  
   
 
-- Fun fact: I Love learning new things
-- In 2025 I am focusing on consistency
+- **Fun fact**: I Love learning new things
+- **In 2025** I am focusing on consistency
 - I am currently learning and practicing the MERN tech stack
   
 
