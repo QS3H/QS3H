@@ -8,7 +8,7 @@
 
 - **Fun fact**: I Love learning new things
 - **In 2025** I am focusing on consistency
-- I am currently learning and practicing the MERN tech stack
+- I am currently learning and practicing the **MERN tech stack**
   
 
 <br/>  
