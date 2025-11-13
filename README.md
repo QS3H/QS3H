@@ -1,87 +1,91 @@
 <div align="center">
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2wwZHU3OHU3cHl5eTJva3c5c3BzZ3Q1anFvYWdzODJoemczZDlxNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.webp" width="80%" alt="coding animation" />
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjZ2eTBuZzhzd3Z5aXpsY2M3c2RtdGlvZmdzbHR1M3hkcDlhczhlMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/yYSSBtDgbbRzq/giphy.webp" width="100%" alt="animated banner" />
 </div>
 
-<h2 align="center">👋 Hi, I'm <a href="https://www.linkedin.com/in/shawky-ahmed/" target="_blank">Shawky Ahmed</a></h2>
+<h1 align="center">✨ Hey there, I'm <span style="color:#00BFFF;">Shawky Ahmed</span> 👋</h1>
 
 <p align="center">
-  🚀 A passionate programmer and aspiring <strong>Full-Stack Developer</strong>  
-  💡 Always learning, building, and experimenting with new technologies  
+  <b>🚀 Full-Stack Developer | 💻 MERN Enthusiast | 🌍 Lifelong Learner</b>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00BFFF&size=22&center=true&vCenter=true&width=600&lines=Passionate+about+building+cool+things!;Always+learning+something+new!;Turning+ideas+into+reality+with+code!" alt="Typing Animation" />
 </p>
 
 ---
 
-### 🧠 About Me
+### 🧠 About Me  
 
-- 🌱 Currently mastering the **MERN** tech stack  
-- 🤓 **Fun fact:** I love learning new things — every day’s a chance to level up!  
-- 💬 Ask me about **React, Node.js, MongoDB**, or how to make clean, maintainable code  
-
----
-
-## 🛠️ My Skill Set
-
-<table>
-  <tr>
-    <td valign="top" width="33%">
-
-### 🎨 Frontend
-<div align="center">
-  <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" height="50" alt="HTML5" /></a>
-  <a href="https://www.w3schools.com/css/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" height="50" alt="CSS3" /></a>
-  <a href="https://www.javascript.com/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" height="50" alt="JavaScript" /></a>
-  <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" height="50" alt="TypeScript" /></a>
-  <a href="https://reactjs.org/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" height="50" alt="React" /></a>
-  <a href="https://www.tailwindcss.com/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" height="50" alt="Tailwind CSS" /></a>
-  <a href="https://sass-lang.com/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/sass-original.svg" height="50" alt="Sass" /></a>
-  <a href="https://getbootstrap.com/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" height="50" alt="Bootstrap" /></a>
-  <a href="https://www.figma.com/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" height="50" alt="Figma" /></a>
-</div>
-
-</td>
-<td valign="top" width="33%">
-
-### ⚙️ Backend
-<div align="center">
-  <a href="https://nodejs.org/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" height="50" alt="Node.js" /></a>
-  <a href="https://expressjs.com/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" height="50" alt="Express.js" /></a>
-  <a href="https://nextjs.org/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/nextjs.png" height="50" alt="NextJS" /></a>
-  <a href="https://www.mongodb.com/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" height="50" alt="MongoDB" /></a>
-  <a href="https://www.cplusplus.com/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" height="50" alt="C++" /></a>
-  <a href="https://www.python.org/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/python-original.svg" height="50" alt="Python" /></a>
-  <a href="https://www.php.net/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/php-original.svg" height="50" alt="PHP" /></a>
-  <a href="https://wordpress.com/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/wordpress.png" height="50" alt="WordPress" /></a>
-  <a href="https://www.postgresql.org/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" height="50" alt="PostgreSQL" /></a>
-</div>
-
-</td>
-<td valign="top" width="33%">
-
-### ☁️ DevOps
-<div align="center">
-  <a href="https://www.linux.org/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" height="50" alt="Linux" /></a>
-  <a href="https://github.com/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" height="50" alt="Git" /></a>
-  <a href="https://kubernetes.io/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/kubernetes-icon.svg" height="50" alt="Kubernetes" /></a>
-  <a href="https://aws.amazon.com/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" height="50" alt="AWS" /></a>
-</div>
-
-</td>
-  </tr>
-</table>
+💡 I’m a **developer** who loves crafting interactive web experiences and exploring the latest in modern web technologies.  
+🎯 Currently diving deeper into the **MERN** stack and backend optimizations.  
+🌱 Always pushing my boundaries and learning something new every day.  
+⚡ **Fun Fact:** I debug faster with coffee ☕ and lo-fi beats 🎧  
 
 ---
 
-## 🤝 Connect With Me
+## 🛠️ My Tech Arsenal  
+
+<div align="center">
+
+| 💅 Frontend | ⚙️ Backend | ☁️ DevOps |
+|:------------:|:-----------:|:-----------:|
+| <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,bootstrap,figma" /><br> | <img src="https://skillicons.dev/icons?i=nodejs,express,nextjs,mongodb,python,php,wordpress,postgresql" /><br> | <img src="https://skillicons.dev/icons?i=git,github,linux,aws,docker,kubernetes" /><br> |
+
+</div>
+
+---
+
+## ⚡ GitHub Stats & Activity  
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=shawkyahmed&show_icons=true&theme=tokyonight&hide_border=true" height="160" alt="GitHub Stats" />  
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=shawkyahmed&theme=tokyonight&hide_border=true" height="160" alt="GitHub Streak" />  
+<br/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shawkyahmed&layout=compact&theme=tokyonight&hide_border=true" height="130" alt="Top Languages" />
+
+</div>
+
+---
+
+## 🌈 My Coding Vibes  
+
+<div align="center">
+  <img src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif" width="300" alt="Coding GIF" />
+  <br/>
+  <i>"First, solve the problem. Then, write the code." — John Johnson</i>
+</div>
+
+---
+
+## 🤝 Connect With Me  
+
 <div align="center">
   <a href="https://www.linkedin.com/in/shawky-ahmed/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%231E77B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:shawky.dev@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/shawkyahmed" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717.svg?&style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </div>
 
 ---
 
+### 💫 Fun Touch  
+
 <div align="center">
-  <i>“Code is like humor. When you have to explain it, it’s bad.”</i>  
+  <img src="https://github-profile-trophy.vercel.app/?username=shawkyahmed&theme=onedark&no-frame=true&margin-w=15&margin-h=15" alt="GitHub Trophies" />
   <br/>
-  <b>— Shawky Ahmed</b>
+  <img src="https://komarev.com/ghpvc/?username=shawkyahmed&style=flat-square&color=00BFFF" alt="Profile Views" />
+</div>
+
+---
+
+<div align="center">
+  <img src="https://media4.giphy.com/media/l0MYB8Ory7Hqefo9a/giphy.gif" width="80" />
+  <br/>
+  <b>Thanks for stopping by! 🚀</b>
 </div>
