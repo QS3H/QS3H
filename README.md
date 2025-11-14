@@ -93,5 +93,4 @@
 
 <div align="center">
   <b>Thanks for stopping by! 🚀</b><br/>
-  <i>“Code. Create. Evolve.”</i>
 </div>
