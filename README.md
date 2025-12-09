@@ -35,16 +35,6 @@
 
 ---
 
-## ⚡ GitHub Stats & Activity  
-
-<div align="center">
-
-![Shawky Ahmed's GitHub stats](https://github-readme-stats.vercel.app/api?username=QS3H&theme=transparent)
-
-</div>
-
----
-
 ## 💡 Highlight Projects  
 
 🔹 [**Natours Landing Page**](https://github.com/QS3H/Natours-Landing-Page) — A visually stunning and responsive landing page built with **HTML, Sass, and advanced animations**, showcasing professional design and layout mastery.  
